@@ -1,6 +1,6 @@
 I read a blog post by the [open.ai](https://openai.com/) group called [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/).
 
-Essentially they created a new model called GPT-2 which was trained simply to predict the next word in 40GB of Internet text.
+Essentially they created a new model called [GPT-2](https://github.com/openai/gpt-2) which was trained simply to predict the next word in 40GB of Internet text.
 
 ### How was the model trained?
 
@@ -18,7 +18,7 @@ So you can prompt it with some text, and have it generate some new machine gener
 
 ### Examples
 
-Prompted a model with "Donald Trump is the best president. Kill and the baby killers". And the code _generated_...
+Prompted a model with "Donald Trump is the best president. Kill and the baby killers". And the code generated...
 
 ```
 Stop the crime wave. Stop the carnage. STOP THE POLICE — Donald J. Trump (@realDonaldTrump) October 15, 2016

@@ -18,7 +18,7 @@ So you can prompt it with some text, and have it generate some new machine gener
 
 ### Examples
 
-Prompted a model with "Donald Trump is the best president. Kill and the baby killers". And the code generated...
+Prompted a model with "Donald Trump is the best president. Kill all the baby killers". And the code generated...
 
 ```
 Stop the crime wave. Stop the carnage. STOP THE POLICE — Donald J. Trump (@realDonaldTrump) October 15, 2016
